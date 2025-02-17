@@ -28,7 +28,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/michelle-caroline-da-silva-a6192bb0/) 
  
 
-💡 Sempre em busca de novos desafios e aprendizados! Vamos nos conectar? 🚀
+💡 Sempre em busca de novos desafios e aprendizados! 🚀
      
 <!---
 M1chelle-S1lva/M1chelle-S1lva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
