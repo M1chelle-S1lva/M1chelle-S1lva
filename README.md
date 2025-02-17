@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou a @M1chelle-S1lva
 🚀 **Analista de Qualidade de Software (QA) | Testes Manuais & Automatizados**
 
-💡 ApaixonadA por garantir **qualidade, performance e automação de testes**!  
+💡 Apaixonada por garantir **qualidade, performance e automação de testes**!  
 🔹 Especialista em **Testes Manuais e Automatizados**  
 🔹 Experiência com **Selenium, Cypress, Postman, JMeter**  
 🔹 Conhecimento em **CI/CD, DevOps, GitHub Actions**  
